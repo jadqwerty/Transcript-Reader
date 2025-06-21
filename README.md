@@ -19,11 +19,11 @@ No Python installation is required.
 
 ---
 
-## 📂 Folder Structure Example
+## 📂 Folder Structure
 ```text
-project_folder/
+Transcript-REader/
 │
-├── app.py             # The source code (optional, for modification run in terminal: python -m PyInstaller --onefile --windowed --icon=icon.ico --add-data "icon.png;." app.py) 
+├── app.py             # The source code (optional, for modification, in terminal run: python -m PyInstaller --onefile --windowed --icon=icon.ico --add-data "icon.png;." app.py) 
 ├── app.exe            # The executable to run
 ├── icon.ico           # The app icon
 ├── icon.png           # Image resource
