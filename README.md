@@ -1,4 +1,4 @@
-# Transcript Reader
+# Custom Transcript Reader
 
 A GUI Windows executable application to extract and convert academic transcripts in PDF format to structured Excel files.
 
